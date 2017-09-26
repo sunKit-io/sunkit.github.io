@@ -45,3 +45,4 @@ ba:
 # disqus 设置
 disqus:
   shortname: coolnameismy
+theme: jekyll-theme-tactile
