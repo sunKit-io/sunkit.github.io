@@ -1,9 +1,9 @@
 # Site settings
-title: 刘彦玮的技术博客
+title: sunkit
 email: coolnameismy@hotmail.com
-description: > #刘彦玮的技术博客
+description: > #孙国庆的技术博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://liuyanwei.jumppo.com" # the base hostname & protocol for your site
+url: "http://sunkit.github.io" # the base hostname & protocol for your site
 # url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 twitter_username: coolnameismy@hotmail.com
 github_username:  coolnameismy
@@ -13,12 +13,11 @@ github_username:  coolnameismy
 permalink: /:year/:month/:day/:title.html   #博文的固定链接
 paginate: 10                                #分页时每页博文数量
 author:                                     #自定义常亮
-  name: 刘彦玮
-  email: coolnameismy@hotmail.com
-  link: http://liuyanwei.jumppo.com/
+  name: 孙国庆
+  email: sunguoqing@aihuanji.com
   weibo: http://weibo.com/1897719834
-  github: http://github.com/coolnameismy
-title: 刘彦玮的技术博客                             #自定义常量
+  github: http://github.com/sunkit-io
+title: 孙国庆的技术博客                             #自定义常量
 
 # avatar头像及Favicon
 avatar: https://avatars1.githubusercontent.com/u/5010799?v=3&amp;s=460
